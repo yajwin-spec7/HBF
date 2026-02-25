@@ -1,2 +1,3 @@
 # HBF
-Website for Benevolent Funt
+Website for Benevolent Fund
+
